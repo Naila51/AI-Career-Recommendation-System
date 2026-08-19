@@ -1,6 +1,10 @@
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from scikitlearn.feature_extraction.text import TfidfVectorizer
+from scikitlearn.metrics.pairwise import cosine_similarity
+streamlit
+pandas
+numpy
+scikit-learn
 
 
 def load_dataset():
